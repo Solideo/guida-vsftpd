@@ -1,0 +1,1 @@
+Installazione e configurazione di vsftpd mysql e phpmyadmin per accesso ftp di utenti virtuali
